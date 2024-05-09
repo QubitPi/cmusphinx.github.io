@@ -4,7 +4,7 @@ email:       nshmyrev@gmail.com
 author:      Nickolay Shmyrev
 description: "CMUSphinx is an open source speech recognition system for mobile and server applications. Supported languages: C, C++, C#, Python, Ruby, Java, Javascript. Supported platforms: Unix, Windows, IOS, Android, hardware."
 baseurl:     ""
-url:         "http://cmusphinx.github.io"
+url:         "https://cmusphinx.qubitpi.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
